@@ -1,0 +1,50 @@
+university_name,total_students,students_enrolled,gender_dominance,education_level,time
+Harvard,1582568,12587,Male,High School,Day and Night
+Oxford,1568291,54682,Female,Graduate,Night
+Luke,1822565,54808,Female,Graduate,Day and Night
+Cambridge,785269,24865,Male,Post-Graduate,Day
+MIT,64154651,258745,Female,High School,Day and Night
+Xavier's,6611852,5698,Male,High School,Day
+Cornell,5455131,98547,Male,Graduate,Night
+Harvard,785280,42530,Female,Post-Graduate,Day
+Oxford,2534156,22897,Male,Post-Graduate,Day and Night
+Luke,5425,89,Female,Ph.D,Night
+Cambridge,41154894,134981,Male,Graduate,Day and Night
+MIT,18547802,254856,Female,Graduate,Day
+Xavier's,8527025,21530,Female,High School,Day and Night
+Cornell,89652710,72080,Female,Post-Graduate,Day
+Harvard,23746520,43250,Male,High School,Day
+Oxford,24167204,21560,Female,Graduate,Day and Night
+Luke,1822565,54269,Male,High School,Night
+Cambridge,585555,56810,Male,Post-Graduate,Day and Night
+MIT,9856921,64730,Female,Graduate,Day
+Xavier's,12345678,548925,Female,High School,Night
+Cornell,9802,152,Male,Ph.D,Day
+Harvard,2525560,23541,Male,Post-Graduate,Day
+Oxford,1568291,85788,Female,Graduate,Night
+Luke,7999952,989012,Female,Diploma,Day and Night
+Cambridge,24573045,54256,Male,Graduate,Night
+MIT,1822565,78046,Female,Post-Graduate,Day
+Xavier's,9078202,11135,Female,Post-Graduate,Day and Night
+Cornell,4562082,136542,Male,Graduate,Night
+Harvard,1582568,18256,Male,High School,Day and Night
+Oxford,4560825,14305,Female,High School,Day and Night
+Luke,9805412,58460,Male,Diploma,Day
+Cambridge,8552449,49610,Male,Post-Graduate,Night
+MIT,4608792,34950,Female,Diploma,Day
+Xavier's,24587259,35142,Female,High School,Day and Night
+Cornell,1822565,19872,Female,Diploma,Night
+Harvard,1582568,14235,Male,Graduate,Day and Night
+Oxford,5234,320,Male,Ph.D,Day
+Luke,4560872,14811,Male,Diploma,Day
+Cambridge,9167890,87587,Female,High School,Night
+MIT,8552449,89046,Male,Graduate,Night
+Xavier's,4658904,75802,Male,High School,Day
+Cornell,1582560,65810,Male,Post-Graduate,Day and Night
+Harvard,8629,87,Male,Ph.D,Day and Night
+Oxford,1568291,64735,Female,Graduate,Night
+Luke,1582568,24585,Male,Post-Graduate,Day
+Cambridge,99999990,7777852,Female,Graduate,Day
+MIT,8552449,254013,Male,High School,Day and Night
+Xavier's,24592580,45267,Female,Post-Graduate,Day and Night
+Cornell,1822565,98052,Male,Graduate,Day

@@ -21,3 +21,8 @@
 From the website, “Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informational statistical graphs.”
 
 Seaborn excels at doing Exploratory Data Analysis (EDA) which is an important early step in any data analysis project. Seaborn uses a “dataset-oriented” API that offers a consistent way to create multiple visualizations that show the relationships between many variables. In practice, Seaborn works best when using Pandas dataframes and when the data is in tidy format. 
+
+## What’s New?
+In my opinion the most interesting new plot is the [relationship](https://seaborn.pydata.org/generated/seaborn.relplot.html#seaborn.relplot) plot or `relplot()` function which allows you to plot with the new `scatterplot()` and `lineplot()` on data-aware grids. Prior to this release, scatter plots were shoe-horned into seaborn by using the base matplotlib function `plt.scatter` and were not particularly powerful. The `lineplot()` is replacing the `tsplot()` function which was not as useful as it could be. These two changes open up a lot of new possibilities for the types of EDA that are very common in Data Science/Analysis projects.
+
+The other useful update is a brand new [introduction](https://seaborn.pydata.org/introduction.html) document which very clearly lays out what Seaborn is and how to use it. In the past, one of the biggest challenges with Seaborn was figuring out how to have the “Seaborn mindset.” This introduction goes a long way towards smoothing the transition.

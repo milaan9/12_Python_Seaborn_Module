@@ -17,3 +17,7 @@
 
 
 ## Introduction 👋
+
+From the website, “Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informational statistical graphs.”
+
+Seaborn excels at doing Exploratory Data Analysis (EDA) which is an important early step in any data analysis project. Seaborn uses a “dataset-oriented” API that offers a consistent way to create multiple visualizations that show the relationships between many variables. In practice, Seaborn works best when using Pandas dataframes and when the data is in tidy format. 

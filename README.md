@@ -29,3 +29,17 @@ Seaborn excels at doing Exploratory Data Analysis (EDA) which is an important ea
 In my opinion the most interesting new plot is the [relationship](https://seaborn.pydata.org/generated/seaborn.relplot.html#seaborn.relplot) plot or `relplot()` function which allows you to plot with the new `scatterplot()` and `lineplot()` on data-aware grids. Prior to this release, scatter plots were shoe-horned into seaborn by using the base matplotlib function `plt.scatter` and were not particularly powerful. The `lineplot()` is replacing the `tsplot()` function which was not as useful as it could be. These two changes open up a lot of new possibilities for the types of EDA that are very common in Data Science/Analysis projects.
 
 The other useful update is a brand new [introduction](https://seaborn.pydata.org/introduction.html) document which very clearly lays out what Seaborn is and how to use it. In the past, one of the biggest challenges with Seaborn was figuring out how to have the “Seaborn mindset.” This introduction goes a long way towards smoothing the transition.
+ 
+ 
+ ---
+
+## Install Seaborn Module:
+
+Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.continuum.io/downloads) Prompt <img alt="propmt" src="https://img.shields.io/badge/-__-000000?style=flat-square&logo=Plex&logoColor=white"> and type and run the following command (individually):
+
+ -       pip install seaborn  
+ 
+
+Once Installed now we can import it inside our python code.
+
+---   
